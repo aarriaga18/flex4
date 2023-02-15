@@ -1,0 +1,20 @@
+img{
+  width: 100%;
+  object-fit: contain;
+}
+#jumbo{
+  padding:0;
+}
+.row{
+  display:flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+.water{
+  width: 50px;
+  height: 50px;
+}
+.goggles{
+  width: 40px;
+  height: 40px;
+}
